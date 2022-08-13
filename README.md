@@ -18,12 +18,12 @@ Si quieres ver la demo de este proyecto desplegado, puedes visitar [Demo del pro
 - Google Fonts
   
 ## Desktop
-<img width="400px"  src="https://raw.githubusercontent.com/azael1412/fashion-e-commerce/main/img/desktop.png" />
+<img width="400px"  src="https://raw.githubusercontent.com/azael1412/fashion-e-commerce/master/img/desktop.png" />
 
 ## Tablet
-<img width="400px"  src="https://raw.githubusercontent.com/azael1412/fashion-e-commerce/main/img/tablet.png" />
+<img width="400px"  src="https://raw.githubusercontent.com/azael1412/fashion-e-commerce/master/img/tablet.png" />
 
 
 ## Mobile
 
-<img width="400px" src="https://raw.githubusercontent.com/azael1412/fashion-e-commerce/main/img/mobile.png" />
+<img width="400px" src="https://raw.githubusercontent.com/azael1412/fashion-e-commerce/master/img/mobile.png" />
